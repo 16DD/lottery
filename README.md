@@ -21,4 +21,4 @@ https://res.cloudinary.com/dqokngjwh/video/upload/v1664443973/video/lotttery-ui-
 
 Link deploy vercel
 
-https://lottery-ui-1cbh.vercel.app/
+https://lottery-ui-42go.vercel.app/
